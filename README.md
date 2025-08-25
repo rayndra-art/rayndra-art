@@ -1,16 +1,16 @@
-## Hi there 👋
+# Halo semua! 
 
-<!--
-**rayndra-art/rayndra-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya R. Rayndra Erinoputra.<br>
 
-Here are some ideas to get you started:
+Saya seorang Mahasiswa Sistem Informasi dari Universitas Gunadarma.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya berpengalaman membangun website yang dikenal dengan nama PoroPoro, yang dapat diakses di link berikut (poroporo.lovestoblog.com).<br>
+
+Saya juga memiliki beberapa sertifikasi menyelesaikan pelatihan javascript diworkshop Universitas Gunadarma dan sertifikasi menyelesaikan berbagai modul pembelajaran dicoding sebagai berikut.<br>
+[sertifikat JavaScript (1).pdf](https://github.com/user-attachments/files/21964329/sertifikat.JavaScript.1.pdf)<br>
+[sertifikat dicoding pembelajaran 1.pdf](https://github.com/user-attachments/files/21964331/sertifikat.dicoding.pembelajaran.1.pdf)<br>
+[sertifikay dicoding pembelajaran 2.pdf](https://github.com/user-attachments/files/21964332/sertifikay.dicoding.pembelajaran.2.pdf)<br>
+
+
+
+Jika kamu tertarik untuk berkenalan denganku, silakan hubungi email rayndraerino0304@gmail.com ku ya.
